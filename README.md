@@ -8,9 +8,8 @@ the big for the sequence. In this middle of the game board i have put a smaller 
 they are, on as well as being able to change the mode, start and restart the game. I decided to use rgby for the buttons as i thought they
 would stand for brightness.
 
-### UX
-
-Used a premade frontend.
+I was given the variables, and i built my game around that.
+this is just practice for myself. thank you for trying it out NERDS
 
 ### Technologies Used
 
