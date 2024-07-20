@@ -23,3 +23,6 @@ Playin the Game <https://werbna.github.io/Simon-Sed/>
 
 I have used the website [myFreeCodeCamp](https://github.com/beaucarnes/simon-game) for research in creating the game. I needed an understanding
 of what to expect my game too look like and how it would work and reworked code around that. using different iterations to deepen my understanding.
+
+I was given the variables, and i built my game around that.
+this is just practice for myself. thank you for trying it out NERDS
